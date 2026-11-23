@@ -1,5 +1,7 @@
 # 🌐 Agent Internet Cheatsheet · AI Agent 联网速查表
 
+> 📚 **合集版**：这张表已收进旗舰合集 [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) —— 100 张速查表在一个仓库里，欢迎去合集点 ⭐。
+
 One page to plug your AI agent into the internet: which tool reads which platform, the exact command, and what breaks. Commands verified against [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (94k+ ⭐).
 
 **Full cheatsheets, one per language (written natively, not translated):**
